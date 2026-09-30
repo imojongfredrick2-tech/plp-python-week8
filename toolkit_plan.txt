@@ -1,0 +1,51 @@
+PLP PYTHON WEEK 8 TOOLKIT PLAN
+
+Tool 1: Simple Calculator
+The calculator adds, subtracts, multiplies, and divides two numbers.
+
+Tool 2: To-Do List
+The to-do list allows the user to add tasks, view tasks, and remove tasks while the program is running.
+
+Tool 3: Number Checker
+The number checker asks the user for a number and determines whether it is positive, negative, or zero.
+
+MENU TEXT
+
+Welcome to My Python Toolkit!
+
+Please choose a tool:
+1. Simple Calculator
+2. To-Do List
+3. Number Checker
+4. Quit
+
+Enter your choice:
+
+CONCEPTS USED
+
+Simple Calculator:
+- Input
+- Variables
+- Conditionals
+- Arithmetic
+- f-strings
+
+To-Do List:
+- List
+- Loop
+- List append()
+- List remove()
+- Conditionals
+- f-strings
+
+Number Checker:
+- Input
+- Conditionals
+- Comparison operators
+- f-strings
+
+Main Menu:
+- while loop
+- if / elif / else
+- Input
+- f-strings
